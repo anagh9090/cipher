@@ -17,7 +17,7 @@ Animated Reveal: Real-time character-by-character decryption effect.
 🚀 Installation
 Prerequisites
 Python 3.8 or higher installed on your system.
-###################
+
 # How to use
 Use the cipher.exe or do this:
 🚀 Installation
