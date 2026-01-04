@@ -61,10 +61,8 @@ Send the list to a friend who has the "Cipher Key" (this script)!
 🧪 Example Output
 Input: Hi
 Output:
-
-
-
 Hi, I am a boy
 Ionic Charge
+
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
