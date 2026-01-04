@@ -1,5 +1,3 @@
-This is a professional, "hacker-style" README.md designed specifically for your Cipher project. It uses clean formatting and clear instructions to make it look great on GitHub.
-
 🕵️‍♂️ CIPHER: The Codeword Encryptor
 Cipher is a sleek, Matrix-styled desktop application that converts plain text into a series of unique codewords. Perfect for sending "encrypted" secret messages to friends or just exploring a futuristic terminal aesthetic.
 
